@@ -1,6 +1,6 @@
 # [Filmy Hub](https://filmyhub-react.herokuapp.com/)
 
-![Filmy Hub](https://i.ibb.co/8sqjrxJ/covid.png)
+![Filmy Hub](https://i.ibb.co/qnR8zVS/FilmyHub.png)
 
 https://ibb.co/pP3Tg57
 
