@@ -5,6 +5,6 @@ Full Stack "CRUD" Application built using React, Redux, Node.js, Express & Mongo
 
 ### Link: https://filmyhub-shivam.onrender.com/
 
-![Filmy Hub](https://i.ibb.co/qnR8zVS/FilmyHub.png)
+![Filmy Hub](https://drive.google.com/uc?export=view&id=1YT7SvEvntUjmOfTgiqF0i05Ks25YXh24)
 
 
